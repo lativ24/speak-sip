@@ -126,7 +126,7 @@ export function WelcomeScreen({ onStart, onHowItWorks }: WelcomeScreenProps) {
                     alt="Sip Host mascot"
                     width={560}
                     height={560}
-                    className="host-stage__mascot absolute bottom-[-14px] left-1/2 block h-auto w-[108%] max-w-none -translate-x-1/2 drop-shadow-[0_10px_0_#101828] sm:bottom-[-22px] sm:w-[112%] lg:w-[120%]"
+                    className="host-stage__mascot absolute bottom-[-14px] left-1/2 block h-auto w-[108%] max-w-none -translate-x-1/2 drop-shadow-[0_10px_0_#101828] sm:bottom-[-22px] sm:w-[112%] lg:w-[100%]"
                   />
                 </div>
               </div>
